@@ -20,8 +20,8 @@ print("Menu:")
 for food in menu:
     print(food)
 # Copy the tuple replacing two of the foods on the menu.
-print("Revised Menu:")
 revised_menu = ("salad", "soup", "calamari", "pizza", "risotto")
 # Print each item on the revised menu using a loop.
+print("Revised Menu:")
 for food in revised_menu:
     print(food)
